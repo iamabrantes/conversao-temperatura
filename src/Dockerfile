@@ -1,4 +1,4 @@
-FROM node
+FROM node:18.11.0
 #MKDIR e CD
 WORKDIR /app
 #Copiar as dependenciar pro diretório corrente e instalar
